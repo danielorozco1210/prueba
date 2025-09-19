@@ -6,4 +6,4 @@ Resetear datos: python manage.py resetear_ids --confirmar
 
 Crear usuario: python manage.py createsuperuser
 
-Urls: http://localhost:8000
+Gráficos: http://localhost:8000/dashboard
